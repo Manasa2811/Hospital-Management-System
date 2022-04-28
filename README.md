@@ -1,1 +1,5 @@
-# Hospital-Management-System
+Hospital management system
+Team-15
+MANASA R- PES2UG19CS215
+NAMITHA NAYAK- PES2UG19CS247
+MANJUNATH Y- PES2UG19CS219
